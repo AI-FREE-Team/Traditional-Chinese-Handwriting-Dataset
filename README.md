@@ -5,7 +5,15 @@
 
 ## Preface 前言
 
- - 待完成
+In the way of data science, we believe every scholar, scientists might have heard about MNIST dataset, or played with Fashion MNIST. As a traditional Chinese user, we couldn't help but wonder: is it possible for machine learning, neural networks to recognize handwritten traditional Chinese characters? Let's challenge!
+
+在走過資料科學的路上，相信每一位學者、科學家都聽過 MNIST dataset (手寫數字資料集)，或許也玩過 Fashion MNIST；身為繁體中文使用者，難免開始好奇：手寫繁體中文是否也有機會讓機器學習、神經網路成功辨識呢？讓我們一起來挑戰！
+
+## Description 資料集說明
+
+Original dataset was produced based on Tegaki, an open-source package. Total 13,065 different Chinese characters, with average of 50 samples for each character.
+
+原始資料集基於 Tegaki 開源套件下產出，總計 13,065 個不同的中文字，每一個字體平均有 50 個樣本。
 
 ## Updates 更新紀錄
 
@@ -16,6 +24,10 @@
  - 待完成
 
 ## Usage 使用方法
+
+ - 待完成
+ 
+## Issues 問題與發現
 
  - 待完成
 
@@ -35,7 +47,7 @@
 
 ## Citing
 ```
-@misc{Traditional Chinese Handwriting Dataset,
+@misc{AI.FREE2020,
   author = {Po-Chuan Chen},
   title = {Traditional Chinese Handwriting Dataset},
   year = {2020},
