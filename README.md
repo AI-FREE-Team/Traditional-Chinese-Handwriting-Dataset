@@ -32,7 +32,7 @@ Original dataset was produced based on Tegaki, an open-source package. Total 13,
 ![完整資料集 - 各樣本資料夾](https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset/blob/master/img/img_folder.png?raw=true)
 
  - 手寫"自由"範例
-![手寫"自由"範例](https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset/blob/master/img/img_folder.png?raw=true)
+![手寫"自由"範例](https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset/blob/master/img/img_samples.png?raw=true)
 
 <br>
 
