@@ -9,28 +9,44 @@ In the way of data science, we believe every scholar, scientists might have hear
 
 在走過資料科學的路上，相信每一位學者、科學家都聽過 MNIST dataset (手寫數字資料集)，或許也玩過 Fashion MNIST；身為繁體中文使用者，難免開始好奇：手寫繁體中文是否也有機會讓機器學習、神經網路成功辨識呢？讓我們一起來挑戰！
 
+<br>
+
 ## Description 資料集說明
 
 Original dataset was produced based on Tegaki, an open-source package. Total 13,065 different Chinese characters, with average of 50 samples for each character.
 
 原始資料集基於 Tegaki 開源套件下產出，總計 13,065 個不同的中文字，每一個字體平均有 50 個樣本。
 
+<br>
+
 ## Updates 更新紀錄
 
  - 2020.04.20 上傳最新資料集 (4803個常用字；圖片大小：50x50pixels；共計 250,712 個圖片檔)
  (<a href='https://language.moe.gov.tw/001/Upload/Files/site_content/download/mandr/%e6%95%99%e8%82%b2%e9%83%a84808%e5%80%8b%e5%b8%b8%e7%94%a8%e5%ad%97%e8%aa%aa%e6%98%8e.pdf'>教育部 4808 個常用字</a>)
 
+<br>
+
 ## Data samples 資料樣本
 
- - 待完成
+ - 完整資料集 - 各樣本資料夾
+![完整資料集 - 各樣本資料夾](https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset/blob/master/img/img_folder.png?raw=true)
+
+ - 手寫"自由"範例
+![手寫"自由"範例](https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset/blob/master/img/img_folder.png?raw=true)
+
+<br>
 
 ## Usage 使用方法
 
  - 待完成
  
+<br>
+ 
 ## Issues 問題與發現
 
  - 待完成
+
+<br>
 
 ## License 授權
 
@@ -46,6 +62,8 @@ Original dataset was produced based on Tegaki, an open-source package. Total 13,
  - (source: https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset )
 
 
+<br>
+
 ## Citing
 ```
 @misc{AI.FREE2020,
@@ -57,6 +75,8 @@ Original dataset was produced based on Tegaki, an open-source package. Total 13,
   howpublished = {\url{https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset}},
 }
 ```
+ 
+<br> 
  
 ## Source 資料來源
 
