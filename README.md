@@ -17,7 +17,7 @@ Original dataset was produced based on Tegaki, an open-source package. Total 13,
 
 ## Updates 更新紀錄
 
- - 待完成
+ - 2020.04.20 上傳最新資料集 (4803個常用字；圖片大小：50*50pixels)
 
 ## Data samples 資料樣本
 
