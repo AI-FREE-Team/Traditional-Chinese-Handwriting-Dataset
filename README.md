@@ -17,7 +17,8 @@ Original dataset was produced based on Tegaki, an open-source package. Total 13,
 
 ## Updates 更新紀錄
 
- - 2020.04.20 上傳最新資料集 (4803個常用字；圖片大小：50*50pixels)
+ - 2020.04.20 上傳最新資料集 (4803個常用字；圖片大小：50x50pixels；共計 250,712 個圖片檔)
+ (<a href='https://language.moe.gov.tw/001/Upload/Files/site_content/download/mandr/%e6%95%99%e8%82%b2%e9%83%a84808%e5%80%8b%e5%b8%b8%e7%94%a8%e5%ad%97%e8%aa%aa%e6%98%8e.pdf'>教育部 4808 個常用字</a>)
 
 ## Data samples 資料樣本
 
