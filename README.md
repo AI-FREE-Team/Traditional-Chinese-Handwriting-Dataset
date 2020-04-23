@@ -21,6 +21,7 @@ Original dataset was produced based on Tegaki, an open-source package. Total 13,
 
 ## Updates 更新紀錄
 
+ - 2020.04.21 上傳資料集前處理方法 (感謝<a href='https://github.com/YenLinWu'> Yen-Lin 博士 </a>熱情貢獻)
  - 2020.04.20 上傳最新資料集 (4803個常用字；圖片大小：50x50pixels；共計 250,712 個圖片檔)
  (<a href='https://language.moe.gov.tw/001/Upload/Files/site_content/download/mandr/%e6%95%99%e8%82%b2%e9%83%a84808%e5%80%8b%e5%b8%b8%e7%94%a8%e5%ad%97%e8%aa%aa%e6%98%8e.pdf'>教育部 4808 個常用字</a>)
  - 2020.04.20 Uploaded the first dataset (4803 charaters; image size: 50x50pixels; total 250,712 images)
@@ -45,12 +46,17 @@ git clone https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Datase
 
 下載本專案後，解壓縮 data 資料夾內的四個檔案，解壓縮後資料夾名稱為 cleaned_data(50_50)，共250,712個圖片。
 
+<a href="https://colab.research.google.com/github/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset/blob/master/Data_Deployment_colab.ipynb"><img src="https://img.shields.io/badge/%E5%AF%A6%E4%BD%9C-Colab-yellow.svg?style=popout-square" alt="範例 Colab"></a>
+
+<a href="https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset/blob/master/Data_Deployment_local.ipynb">本地操作程式碼參考</a>
+
 <br>
  
 ## Issues 問題與發現
 
 1. 資料集因壓縮至 50x50 Pixels，發現部分圖片檔筆畫不清楚、出現重疊現象。
 2. 因資料集龐大，暫時先推出常用中文字手寫資料集，完整資料集待處理完畢後再行發布。
+3. 於 Colab 範例解壓縮後，常用字集樣本數只剩 243,161 張圖片。 (議題有待釐清)
 
 <br>
 
