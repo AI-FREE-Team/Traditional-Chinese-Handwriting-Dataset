@@ -96,6 +96,8 @@ git clone https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Datase
 
 原資料集來源：https://scidm.nchc.org.tw/dataset/stusteecs_chinese_mnist
 
+介紹說明影片：https://www.youtube.com/watch?v=eJy1BtkqHX4
+
 來源說明：本數據集開發修改自南臺科技大學電子系所提供之中文手寫字集。
 
 Description: The Dataset is developed from Chinese handwriting data set, which is provided by Dept. EECS, Southern Taiwan University of Science and Technology.
