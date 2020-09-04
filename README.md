@@ -40,7 +40,7 @@ Original dataset was produced based on Tegaki, an open-source package. Total 13,
 
 ## Usage 使用方法
 
-1. 完整資料集 - whole Dataset (13,065 characters)
+### 1. 完整資料集 - whole Dataset (13,065 characters)
 ``` bash
 git clone https://github.com/chenkenanalytic/handwritting_data_all.git
 
@@ -51,12 +51,15 @@ unzip (file_path)/all_data.zip -d (output_path)
 ※ (file_path) & (output_path) 以實際檔案位置需求作修改、替換，解壓縮後資料夾名稱為 cleaned_data，共684,677個圖片。
 
 
-2. 常用字資料集 - common words Dataset (4,803 characters)
+
+### 2. 常用字資料集 - common words Dataset (4,803 characters)
 ``` bash
 git clone https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset.git
 
 ```
 ※ 下載常用字資料集後，解壓縮 data 資料夾內的四個檔案，解壓縮後資料夾名稱為 cleaned_data(50_50)，共250,712個圖片。
+
+
 
 ### 資料集部署操作 (感謝<a href='https://github.com/YenLinWu'> Yen-Lin 博士 </a>熱情貢獻)
 
