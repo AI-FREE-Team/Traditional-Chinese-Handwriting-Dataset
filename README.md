@@ -52,7 +52,7 @@ unzip (file_path)/all_data.zip -d (output_path)
 
 
 
-### 完整資料集 - 部署操作
+#### 完整資料集 - 部署操作
 
 <a href="https://colab.research.google.com/github/chenkenanalytic/handwritting_data_all/blob/master/Data_Deployment_all.ipynb">Colab操作程式碼參考</a>
 
@@ -67,7 +67,7 @@ git clone https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Datase
 
 
 
-### 常用字資料集 - 部署操作 (感謝<a href='https://github.com/YenLinWu'> Yen-Lin 博士 </a>熱情貢獻)
+#### 常用字資料集 - 部署操作 (感謝<a href='https://github.com/YenLinWu'> Yen-Lin 博士 </a>熱情貢獻)
 
 <a href="https://colab.research.google.com/github/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset/blob/master/Data_Deployment_colab.ipynb#scrollTo=BtJidZSSed2C">Colab操作程式碼參考</a>
 
