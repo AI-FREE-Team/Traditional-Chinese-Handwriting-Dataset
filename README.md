@@ -44,11 +44,11 @@ Original dataset was produced based on Tegaki, an open-source package. Total 13,
 ``` bash
 git clone https://github.com/chenkenanalytic/handwritting_data_all.git
 
-cat (~file_path~)/all_data.zip* > (~file_path~)/all_data.zip
+cat (file_path)/all_data.zip* > (file_path)/all_data.zip
 
-unzip (~file_path~)/all_data.zip -d (~output_path~)
+unzip (file_path)/all_data.zip -d (output_path)
 ```
-※ (/~file_path/~) & (/~output_path/~) 以實際檔案位置需求作修改、替換，解壓縮後資料夾名稱為 cleaned_data，共684,677個圖片。
+※ (file_path) & (output_path) 以實際檔案位置需求作修改、替換，解壓縮後資料夾名稱為 cleaned_data，共684,677個圖片。
 
 
 2. 常用字資料集 - common words Dataset (4,803 characters)
