@@ -56,8 +56,8 @@ unzip (file_path)/all_data.zip -d (output_path)
 
 <a href="https://colab.research.google.com/github/chenkenanalytic/handwritting_data_all/blob/master/Data_Deployment_all.ipynb">Colab操作程式碼參考</a>
 
-
-
+<br>
+ 
 ### 2. 常用字資料集 - common words Dataset (4,803 characters)
 ``` bash
 git clone https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset.git
