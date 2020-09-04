@@ -77,8 +77,8 @@ git clone https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Datase
  
 ## Issues 問題與發現
 
-1. 資料集因壓縮至 50x50 Pixels，發現部分圖片檔筆畫不清楚、出現重疊現象。
-2. 因資料集龐大，暫時先推出常用中文字手寫資料集，完整資料集待處理完畢後再行發布。
+1. 常用字資料集因壓縮至 50x50 Pixels，發現部分圖片檔筆畫不清楚、出現重疊現象。 (完整資料集較無此問題，資料為 300x300 Pixels)
+2. 完整資料集佈署範例於 Colab 上解壓縮後，中文字集檔名會出現亂碼。
 
 
 <br>
