@@ -21,7 +21,7 @@ Original dataset was produced based on Tegaki, an open-source package. Total 13,
 
 ## Updates 更新紀錄
 
- - 2021.04.17 專案衍生應用： Web-based 模型訓練、手寫辨識
+ - 2021.04.17 專案衍生應用： <a href="https://traditional-chinese-handwriting.github.io/">Web-based 模型訓練、手寫辨識</a>
  - 2021.04.14 (非直接相關) 趨勢科技 T-brain 玉山人工智慧挑戰賽2021夏季賽：<a href='https://tbrain.trendmicro.com.tw/Competitions/Details/13'>繁體中文場景文字辨識競賽</a>
  - 2020.09.03 Released the whole dataset (13,065 charaters; image size: 300x300pixels; total 684,677 images)
  - 2020.04.21 提供資料集部署操作範例 (感謝<a href='https://github.com/YenLinWu'> Yen-Lin 博士 </a>熱情貢獻)
@@ -86,11 +86,13 @@ git clone https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Datase
 
 <br>
 
-## Application 衍伸應用 - Web-based 模型訓練、手寫辨識
+## Application 衍伸應用 - <a href="https://traditional-chinese-handwriting.github.io/">Web-based 模型訓練、手寫辨識</a>
 
 The application was developed based on the <a href="https://www.coursera.org/learn/browser-based-models-tensorflow/home/week/2">week 2</a> homework of <a href="https://www.coursera.org/learn/browser-based-models-tensorflow/home/welcome">Browser-based Models with TensorFlow.js</a> in <a href="https://www.coursera.org/specializations/tensorflow-data-and-deployment">TensorFlow: Data and Deployment Specialization</a> on coursera.
 
-此衍生應用基於 Deeplearning.ai 之 Coursera 線上課程，<a href="https://www.coursera.org/specializations/tensorflow-data-and-deployment">TensorFlow: Data and Deployment Specialization</a> 的第一堂課程：<a href="https://www.coursera.org/learn/browser-based-models-tensorflow/home/welcome">Browser-based Models with TensorFlow.js</a><a href="https://www.coursera.org/learn/browser-based-models-tensorflow/home/week/2">第二週</a>線上作業所開發。 
+此衍生應用基於 Deeplearning.ai 之 Coursera 線上課程，<a href="https://www.coursera.org/specializations/tensorflow-data-and-deployment">TensorFlow: Data and Deployment Specialization</a> 的第一堂課程：<a href="https://www.coursera.org/learn/browser-based-models-tensorflow/home/welcome">Browser-based Models with TensorFlow.js</a> 的 <a href="https://www.coursera.org/learn/browser-based-models-tensorflow/home/week/2">第二週</a>線上作業所開發。 
+
+
 
 ## License 授權
 
