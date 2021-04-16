@@ -86,9 +86,11 @@ git clone https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Datase
 
 <br>
 
-## Application 衍伸應用
+## Application 衍伸應用 - Web-based 模型訓練、手寫辨識
 
 The application was developed based on the <a href="https://www.coursera.org/learn/browser-based-models-tensorflow/home/week/2">week 2</a> homework of <a href="https://www.coursera.org/learn/browser-based-models-tensorflow/home/welcome">Browser-based Models with TensorFlow.js</a> in <a href="https://www.coursera.org/specializations/tensorflow-data-and-deployment">TensorFlow: Data and Deployment Specialization</a> on coursera.
+
+此衍生應用基於 Deeplearning.ai 之 Coursera 線上課程，<a href="https://www.coursera.org/specializations/tensorflow-data-and-deployment">TensorFlow: Data and Deployment Specialization</a> 的第一堂課程：<a href="https://www.coursera.org/learn/browser-based-models-tensorflow/home/welcome">Browser-based Models with TensorFlow.js</a><a href="https://www.coursera.org/learn/browser-based-models-tensorflow/home/week/2">第二週</a>線上作業所開發。 
 
 ## License 授權
 
