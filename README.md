@@ -92,10 +92,7 @@ The application was developed based on the <a href="https://www.coursera.org/lea
 
 此衍生應用基於 Deeplearning.ai 之 Coursera 線上課程，<a href="https://www.coursera.org/specializations/tensorflow-data-and-deployment">TensorFlow: Data and Deployment Specialization</a> 的第一堂課程：<a href="https://www.coursera.org/learn/browser-based-models-tensorflow/home/welcome">Browser-based Models with TensorFlow.js</a> 的 <a href="https://www.coursera.org/learn/browser-based-models-tensorflow/home/week/2">第二週</a>線上作業所開發。 
 
-![繁體中文手寫辨識_人](https://raw.githubusercontent.com/chenkenanalytic/img/master/tchc-ke/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E6%89%8B%E5%AF%AB%E8%BE%A8%E8%AD%98_%E4%BA%BA.gif)
-![繁體中文手寫辨識_工](https://raw.githubusercontent.com/chenkenanalytic/img/master/tchc-ke/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E6%89%8B%E5%AF%AB%E8%BE%A8%E8%AD%98_%E5%B7%A5.gif)
 ![繁體中文手寫辨識_智](https://raw.githubusercontent.com/chenkenanalytic/img/master/tchc-ke/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E6%89%8B%E5%AF%AB%E8%BE%A8%E8%AD%98_%E6%99%BA.gif)
-![繁體中文手寫辨識_慧](https://raw.githubusercontent.com/chenkenanalytic/img/master/tchc-ke/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E6%89%8B%E5%AF%AB%E8%BE%A8%E8%AD%98_%E6%85%A7.gif)
 
 
 ## License 授權
