@@ -94,6 +94,8 @@ The application was developed based on the <a href="https://www.coursera.org/lea
 
 ![繁體中文手寫辨識_智](https://raw.githubusercontent.com/chenkenanalytic/img/master/tchc-ke/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E6%89%8B%E5%AF%AB%E8%BE%A8%E8%AD%98_%E6%99%BA.gif)
 
+若您對於此專案有興趣，歡迎參考此<a href="https://aifreeblog.herokuapp.com/posts/134/Web-based_Traditional_Chinese_Handwriting_Classifier/">文章</a>說明。
+
 
 ## License 授權
 
