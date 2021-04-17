@@ -24,7 +24,7 @@ Original dataset was produced based on Tegaki, an open-source package. Total 13,
  - 2021.04.17 專案衍生應用： <a href="https://traditional-chinese-handwriting.github.io/">Web-based 模型訓練、手寫辨識</a>
  - 2021.04.14 (非直接相關) 趨勢科技 T-brain 玉山人工智慧挑戰賽2021夏季賽：<a href='https://tbrain.trendmicro.com.tw/Competitions/Details/13'>繁體中文場景文字辨識競賽</a>
  - 2020.09.03 Released the whole dataset (13,065 charaters; image size: 300x300pixels; total 684,677 images)
- - 2020.04.21 提供資料集部署操作範例 (感謝<a href='https://github.com/YenLinWu'> Yen-Lin 博士 </a>熱情貢獻)
+ - 2020.04.29 分享使用繁體中文手寫字集實現卷積神經網路手寫識別實作 (感謝<a href='https://github.com/YenLinWu'> Yen-Lin 博士 </a>熱情貢獻)
  - 2020.04.21 提供資料集部署操作範例 (感謝<a href='https://github.com/YenLinWu'> Yen-Lin 博士 </a>熱情貢獻)
  - 2020.04.20 上傳最新資料集 (4,803個常用字；圖片大小：50x50pixels；共計 250,712 個圖片檔)
  (<a href='https://language.moe.gov.tw/001/Upload/Files/site_content/download/mandr/%e6%95%99%e8%82%b2%e9%83%a84808%e5%80%8b%e5%b8%b8%e7%94%a8%e5%ad%97%e8%aa%aa%e6%98%8e.pdf'>教育部 4,808 個常用字</a>)
@@ -54,6 +54,7 @@ unzip (file_path)/all_data.zip -d (output_path)
 ※ (file_path) & (output_path) 以實際檔案位置需求作修改、替換，解壓縮後資料夾名稱為 cleaned_data，共684,677個圖片。
 
 
+<br>
 
 #### 完整資料集 - 部署操作
 
@@ -86,7 +87,22 @@ git clone https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Datase
 
 <br>
 
-## Application 衍伸應用 - <a href="https://traditional-chinese-handwriting.github.io/">Web-based 模型訓練、手寫辨識</a>
+## Handwriting Chinese Characters Recognition 手寫中文辨識
+
+<a href="https://github.com/AI-FREE-Team/Handwriting-Chinese-Characters-Recognition"> repo introdcution 專案介紹 </a>
+
+使用<a href="https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset">繁體中文手寫字集</a>實現卷積神經網路手寫識別。
+
+Applied <a href="https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset">Traditional-Chinese-Handwriting-Dataset</a> to realize handwriting recognition by CNN model.
+
+<a href="https://colab.research.google.com/github/AI-FREE-Team/Handwriting-Chinese-Characters-Recognition/blob/master/Traditional_Chinese_CNN_Model_colab.ipynb"><img src="https://img.shields.io/badge/%E5%AF%A6%E4%BD%9C-Colab-yellow.svg?style=popout-square" alt="範例 Colab"></a>
+
+若您對於進一步此實作感興趣，歡迎參考此<a href="https://aifreeblog.herokuapp.com/posts/68/Handwriting_Chinese_Characters_Recognition/">文章</a>說明。
+
+
+<br>
+
+## Project Application 專案衍伸應用 - <a href="https://traditional-chinese-handwriting.github.io/">Web-based 模型訓練、手寫辨識</a>
 
 The application was developed based on the <a href="https://www.coursera.org/learn/browser-based-models-tensorflow/home/week/2">week 2</a> homework of <a href="https://www.coursera.org/learn/browser-based-models-tensorflow/home/welcome">Browser-based Models with TensorFlow.js</a> in <a href="https://www.coursera.org/specializations/tensorflow-data-and-deployment">TensorFlow: Data and Deployment Specialization</a> on coursera.
 
@@ -96,6 +112,8 @@ The application was developed based on the <a href="https://www.coursera.org/lea
 
 若您對於此專案有興趣，歡迎參考此<a href="https://aifreeblog.herokuapp.com/posts/134/Web-based_Traditional_Chinese_Handwriting_Classifier/">文章</a>說明。
 
+
+<br>
 
 ## License 授權
 
