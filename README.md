@@ -89,13 +89,14 @@ git clone https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Datase
 
 ## Handwriting Chinese Characters Recognition 手寫中文辨識
 
-<a href="https://github.com/AI-FREE-Team/Handwriting-Chinese-Characters-Recognition"> repo introdcution 專案介紹 </a>
+<a href="https://colab.research.google.com/github/AI-FREE-Team/Handwriting-Chinese-Characters-Recognition/blob/master/Traditional_Chinese_CNN_Model_colab.ipynb"><img src="https://img.shields.io/badge/%E5%AF%A6%E4%BD%9C-Colab-yellow.svg?style=popout-square" alt="範例 Colab"></a>
+
+<a href="https://github.com/AI-FREE-Team/Handwriting-Chinese-Characters-Recognition"> Repo Introdcution 專案介紹 </a>
 
 使用<a href="https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset">繁體中文手寫字集</a>實現卷積神經網路手寫識別。
 
 Applied <a href="https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset">Traditional-Chinese-Handwriting-Dataset</a> to realize handwriting recognition by CNN model.
 
-<a href="https://colab.research.google.com/github/AI-FREE-Team/Handwriting-Chinese-Characters-Recognition/blob/master/Traditional_Chinese_CNN_Model_colab.ipynb"><img src="https://img.shields.io/badge/%E5%AF%A6%E4%BD%9C-Colab-yellow.svg?style=popout-square" alt="範例 Colab"></a>
 
 若您對於進一步此實作感興趣，歡迎參考此<a href="https://aifreeblog.herokuapp.com/posts/68/Handwriting_Chinese_Characters_Recognition/">文章</a>說明。
 
