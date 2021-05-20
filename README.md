@@ -49,7 +49,7 @@ git clone https://github.com/chenkenanalytic/handwritting_data_all.git
 
 cat (file_path)/all_data.zip* > (file_path)/all_data.zip
 
-unzip (file_path)/all_data.zip -d (output_path)
+unzip -O big5 (file_path)/all_data.zip -d (output_path)
 ```
 ※ (file_path) & (output_path) 以實際檔案位置需求作修改、替換，解壓縮後資料夾名稱為 cleaned_data，共684,677個圖片。
 
